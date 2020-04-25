@@ -35,4 +35,14 @@ Requests is a Python module that you can use to send all kinds of HTTP requests.
 ### First Step: Extract the Headline from Viral News Websites
 ### Second Step: Pre processs the text and convert to tokens
 ### Third Step: Build the Bow and LDA models
+LDA is a generative probabilistic model that assumes each topic is a mixture over an underlying set of words, and each document is a mixture of over a set of topic probabilities.
+LDA Implementation
+
+    Loading data
+    Data cleaning
+    Exploratory analysis
+    Preparing data for LDA analysis
+    Model Evaluation and parameter tuning
+
+
 ### Visualised The Results
