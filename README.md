@@ -2,6 +2,8 @@
 Crawl news &amp; information websites & anticipate the likelihood of its virality.
 
 ### Required Packages!
+In the very fisrt step we need some packeges to extract news headline from news websites.\
+Here is the list of packeges with their description.
 1) bs4 in python\
 bs4 — BeautifulSoup 4. Beautiful Soup is a Python library for pulling data out of HTML and XML files.
 
@@ -33,9 +35,11 @@ Applications of lemmatization are:
 Requests is a Python module that you can use to send all kinds of HTTP requests. It is an easy-to-use library with a lot of features ranging from passing parameters in URLs to sending custom headers and SSL Verification.
 
 ### First Step: Extract the Headline from Viral News Websites
+In this step take some url of news website and extract the headlines from the viral news website.
 ### Second Step: Pre processs the text and convert to tokens
+In this step preprocess the text of headline news and convert to tokens and pass these tokens to the Bow and LDA models.
 ### Third Step: Build the Bow and LDA models
-LDA is a generative probabilistic model that assumes each topic is a mixture over an underlying set of words, and each document is a mixture of over a set of topic probabilities.
+LDA is a generative probabilistic model that assumes each topic is a mixture over an underlying set of words, and each document is a mixture of over a set of topic probabilities.\
 LDA Implementation
 
     Loading data
@@ -46,3 +50,4 @@ LDA Implementation
 
 
 ### Visualised The Results
+Show the headline and wesite link
