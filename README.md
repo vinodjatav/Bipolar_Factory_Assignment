@@ -22,19 +22,19 @@ The Python itertools module is a collection of tools for handling iterators. Sim
 
 Lemmatization is the process of grouping together the different inflected forms of a word so they can be analysed as a single item. Lemmatization is similar to stemming but it brings context to the words. So it links words with similar meaning to one word.
 
-Text preprocessing includes both Stemming as well as Lemmatization. Many times people find these two terms confusing. Some treat these two as same. Actually, lemmatization is preferred over Stemming because lemmatization does morphological analysis of the words./
+Text preprocessing includes both Stemming as well as Lemmatization. Many times people find these two terms confusing. Some treat these two as same. Actually, lemmatization is preferred over Stemming because lemmatization does morphological analysis of the words.
 
-Applications of lemmatization are:/
+Applications of lemmatization are:
 
 
-    Used in comprehensive retrieval systems like search engines./
-    Used in compact indexing/
+    Used in comprehensive retrieval systems like search engines.
+    Used in compact indexing
 
- Examples of lemmatization:/
+ Examples of lemmatization:\
 
--> rocks : rock/
--> corpora : corpus/
--> better : good/
+-> rocks : rock\
+-> corpora : corpus\
+-> better : good\
 
 6) Requests module in python?
 
