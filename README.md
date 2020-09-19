@@ -1,4 +1,4 @@
-# Bipolar_Factory_Assignment
+# Crawl News Website
 Crawl news &amp; information websites & anticipate the likelihood of its virality.
 
 ### Required Packages!
